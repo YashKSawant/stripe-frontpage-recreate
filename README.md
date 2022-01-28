@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Stripe Recreate
+
+# This Project is hosted live [here](https://stripe-recreate.netlify.app/)
+
+## Real website [stripe.com](https://stripe.com/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
